@@ -1,5 +1,4 @@
 tarpaulin-cm-77eb4a0a7ccb.json
 /venv
 .env
-seed_users.py
 app.yaml
